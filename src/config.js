@@ -13,6 +13,8 @@ export default {
         REGION,
         USER_POOL_ID: "eu-central-1_3EtBs2njA",
         APP_CLIENT_ID: "3iv1kt7r7mp64iruqn453hveg3",
-        IDENTITY_POOL_ID: "eu-central-1:3d4be992-fc87-4910-99dd-07d744b22648"
-    }
+        IDENTITY_POOL_ID: "eu-central-1:8ab69d4f-1a93-4864-b859-774edb3e7fc7"
+    },
+    MAX_ATTACHMENT_SIZE: 5000000,
+    STRIPE_KEY: "pk_test_51HBf7tCnhFYTPD9RIaKQEW9u23cAwuBllxowxQZYzV1gzBY1SIjlIEajqlei0NypDAJ6qGmLLPaGxXj9AUiVgb6x00tVPY4rDT",
 };
